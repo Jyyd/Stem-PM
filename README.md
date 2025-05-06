@@ -1,8 +1,8 @@
-# my_project:PM_Estimate
+# my_project:MP_Estimate
 
 ## 1.Description
 
-**High-Resolution Compound Exposure Assessment of Multiple Air Pollutants Using Stacked Ensemble Learning**
+**Uneven Compound Air Pollution Exposure Across Urbanization Gradients Revealed by High-Resolution Machine Learning**
 
 ## 2.File Structure
 ```
